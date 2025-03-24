@@ -1,3 +1,6 @@
 [submodule "FM-fylo-data-storage-component-master"]
 	path = FM-fylo-data-storage-component-master
 	url = https://github.com/llovo-code/FM-fylo-data-storage-component-master
+[submodule "FM-huddle-landing-page-with-curved-sections"]
+	path = FM-huddle-landing-page-with-curved-sections
+	url = https://github.com/llovo-code/FM-huddle-landing-page-with-curved-sections-master
