@@ -8,9 +8,9 @@ Cada desafío incluye un enlace a su versión desplegada en GitHub Pages para qu
 
 | Repositorio | Demo | Source | Estado | stack |
 | ----------- | ---- |--------| ------ |------ |
-| [Fylo data storage component](https://github.com/llovo-code/FM-fylo-data-storage-component-master) | [🔗Ver]( https://llovo-code.github.io/FM-fylo-data-storage-component-master/) | [FrontEndMentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n) | Finalizado | [![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev)|
-| [Huddle-landing-page-with-curved-sections](https://github.com/llovo-code/FM-huddle-landing-page-with-curved-sections-master) | [🔗Ver](https://llovo-code.github.io/FM-huddle-landing-page-with-curved-sections-master/) | [FrontEndMentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) | Finalizado | [![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev) |
-| [challenge-3](https://github.com/tu-usuario/challenge-3) | [🔗 Ver](https://tu-usuario.github.io/challenge-3/) | [FrontEndMentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) | Finalizado | x |
+| [Fylo data storage component](https://github.com/llovo-code/FM-fylo-data-storage-component-master) | [🔗Ver]( https://llovo-code.github.io/FM-fylo-data-storage-component-master/) | [FrontEndMentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n) | ✅ | [![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev)|
+| [Huddle landing page with curved](https://github.com/llovo-code/FM-huddle-landing-page-with-curved-sections-master) | [🔗Ver](https://llovo-code.github.io/FM-huddle-landing-page-with-curved-sections-master/) | [FrontEndMentor](https://www.frontendmentor.io/challenges/) | ✅ | [![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev) |
+| [Product preview card component](https://github.com/llovo-code/Product-preview-card-component) | [🔗 Ver](https://llovo-code.github.io/Product-preview-card-component/) | [FrontEndMentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) | ✅ | [![My Skills](https://skillicons.dev/icons?i=html,tailwindcss&perline=3)](https://skillicons.dev) |
 
 (Sigue agregando los desafíos según los vayas completando)
 
