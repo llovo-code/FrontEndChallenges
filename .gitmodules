@@ -4,3 +4,6 @@
 [submodule "FM-huddle-landing-page-with-curved-sections"]
 	path = FM-huddle-landing-page-with-curved-sections
 	url = https://github.com/llovo-code/FM-huddle-landing-page-with-curved-sections-master
+[submodule "Product-preview-card-component"]
+	path = Product-preview-card-component
+	url = https://github.com/llovo-code/Product-preview-card-component
